@@ -1,5 +1,6 @@
 ## 3DS CATIA(r) CAA VB.NET weld designation according Russian Standards.
-### This is a small add-on that creates a weld designation in accordance with Russian drafting standards. Tested in V5R15 and V5R19 version.
+### This is a small add-on that creates a weld designation in accordance with Russian drafting standards.  
+### Tested in V5R15 and V5R19 version.
 
 A small setup guide in Russian in the file "Description_RU.pdf".
 
@@ -25,11 +26,11 @@ and show the message:
 Solution: restart the CATIA COM server.
 Start / Run - "cmd", then go to the CATIA installation folder (..intel_a \ code \ bin),
 
-execute the command "cnext / unregserver"
+execute the command "cnext / unregserver"  
 
 execute the command "cnext / regserver"
-
-
-
+  
+  
+  
 You can find more examples on the forum:
 [plm-forum.ru](http://www.plm-forum.ru/forum/)
