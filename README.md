@@ -19,6 +19,7 @@ Found some "irreparable virtues":
 
 After turning on Windows from "Hibernation" the application did not see running CATIA
 and show the message:
+
 "For the application to work, you must first start CATIA".
 
 Solution: restart the CATIA COM server.
