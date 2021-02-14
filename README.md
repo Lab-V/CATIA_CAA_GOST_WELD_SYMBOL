@@ -26,9 +26,9 @@ and show the message:
 Solution: restart the CATIA COM server.
 Start / Run - "cmd", then go to the CATIA installation folder (..intel_a \ code \ bin),
 
-`execute the command "cnext / unregserver"`
+execute the command `cnext / unregserver`
 
-`execute the command "cnext / regserver"`  
+execute the command `cnext / regserver`
   
   
 You can find more examples on the forum:
