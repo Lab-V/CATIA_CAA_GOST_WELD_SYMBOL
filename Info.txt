@@ -1,0 +1,22 @@
+﻿CATIA + VB.NET: Обозначение сварки
+
+	Программа тестировалась в Windows XP Professional SP2.
+В системе установлены:
+
+1. Microsoft .NET Framework 3.5 SP1
+ + Hotfix for Microsoft .NET Framework 3.5 SP1 (KB953595)
+ + Языковой пакет Microsoft .NET Framework 3.5 - RUS
+
+2. Windows Installer 3.1 (KB893803)
+
+
+	Замеченные "Неустранимые достоинства":
+
+	После включения Windows из "Спящего режима" приложение "не увидело" работающую CATIA
+- появилось сообщение "Для работы приложения необходомо сначала запустить CATIA".
+	
+	Решение: перезапуск COM-сервера CATIA.
+Пуск/Выполнить - "cmd", далее перейти в папку установки CATIA (..intel_a\code\bin),
+
+выполнить команду "cnext /unregserver"
+выполнить команду "cnext /regserver"
