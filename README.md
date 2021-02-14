@@ -3,7 +3,7 @@
 
 A small setup guide in Russian in the file "Description_RU.pdf".
 
-![Preview image](https://github.com/Lab-V/CATIA_GOST_WELD_SYMBOL/blob/main/CAA_VBNET_WELD_SYMBOL.png)
+![Preview image](https://github.com/Lab-V/CATIA_CAA_GOST_WELD_SYMBOL/blob/main/CAA_VBNET_WELD_SYMBOL.png)
 
 The program was tested in Windows XP Professional SP2.
 The system contains:
